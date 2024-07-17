@@ -1,0 +1,20 @@
+html,body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #f5f5f5;
+}
+
+
+/* fixed navbar when scroll on this */
+.sticky-top{
+    position: fixed;
+    width: 95%;
+}
+#navbar{
+    position: sticky;
+    background-color: #f5f5f5;
+}
+
+
+  
